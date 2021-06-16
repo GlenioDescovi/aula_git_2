@@ -13,3 +13,5 @@ Nomes:
 - Pedro Bilar Montero;
 
 - Guilherme Alan Mohr;
+
+- Alisson Billig Kroth;
