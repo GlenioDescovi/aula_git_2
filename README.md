@@ -15,3 +15,5 @@ Nomes:
 - Guilherme Alan Mohr;
 
 - Alisson Billig Kroth;
+
+- Nathalia Feltrin Fernandes;
