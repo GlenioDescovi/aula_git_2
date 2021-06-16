@@ -9,3 +9,5 @@ Nomes:
 - Mauriss Albrecht Nunes;
 
 - Marcelo Costa de Lima;
+
+- Pedro Bilar Montero;
