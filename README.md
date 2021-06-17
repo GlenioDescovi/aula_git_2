@@ -18,6 +18,8 @@ Nomes:
 
 - Nathalia Feltrin Fernandes;
 
+- Marina Krause Eskelsen;
+
 - Érico Oliveira Ribeiro;
 
 - Enrique da Costa Carvalho;
