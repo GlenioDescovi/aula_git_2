@@ -18,6 +18,8 @@ Nomes:
 
 - Nathalia Feltrin Fernandes;
 
-- Érico Oliveira Ribeiro
+- Érico Oliveira Ribeiro;
 
-- Enrique da Costa Carvalho 
+- Enrique da Costa Carvalho;
+
+- Giancarlo Girardon Bolzan;
