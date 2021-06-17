@@ -17,3 +17,5 @@ Nomes:
 - Alisson Billig Kroth;
 
 - Nathalia Feltrin Fernandes;
+
+- Érico Oliveira Ribeiro
