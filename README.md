@@ -19,3 +19,5 @@ Nomes:
 - Nathalia Feltrin Fernandes;
 
 - Érico Oliveira Ribeiro
+
+- Enrique da Costa Carvalho 
