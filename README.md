@@ -21,3 +21,5 @@ Nomes:
 - Érico Oliveira Ribeiro
 
 - Enrique da Costa Carvalho 
+
+- Giancarlo Girardon Bolzan;
